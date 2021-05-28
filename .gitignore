@@ -2,3 +2,5 @@ config
 .vscode
 test
 *__pycache__
+client_secrets.json
+user_credentials
