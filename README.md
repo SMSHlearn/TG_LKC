@@ -7,10 +7,10 @@
      自主學習的Telegram機器人，歡迎下載試用
   </div>
   <div align="center">
-     Design: <a href="https://yang-lin94.github.io/">Cason Yang</a> / Tech Support: <a href="https://yang-lin94.github.io/">Cason Yang</a>
+     Design: <a href="https://yang-lin94.github.io/">Cason Yang</a> / Tech Support: <a href="https://yang-lin94.github.io/">Cason Yang</a> / Partner:<a href="https://github.com/leon921120">Leon chien</a>
   </div>
    	<div align="center">
-     點擊加入 <a href="https://t.me/LKC_stock">https://t.me/LKC_stock</a>
+     點擊加入 <a href="https://t.me/LKC_stock_bot">https://t.me/LKC_stock_bot</a>
 </div>
 </p>
 
